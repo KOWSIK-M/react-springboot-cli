@@ -1,0 +1,42 @@
+{
+  "name": "create-react-spring",
+  "version": "1.0.0",
+  "description": "CLI tool to generate a React + Spring Boot full-stack project.",
+  "type": "module",
+  "main": "bin/index.js",
+  "bin": {
+    "create-react-spring": "./bin/index.js"
+  },
+  "files": [
+    "bin",
+    "templates"
+  ],
+  "keywords": [
+    "react",
+    "spring",
+    "springboot",
+    "java",
+    "vite",
+    "create-react-app",
+    "starter",
+    "generator",
+    "cli",
+    "fullstack",
+    "scaffold"
+  ],
+  "author": "Kowsik",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KOWSIK-M/create-react-spring.git"
+  },
+  "homepage": "https://github.com/KOWSIK-M/create-react-spring#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^9.2.7"
+  }
+}
