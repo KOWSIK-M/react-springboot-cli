@@ -1,4 +1,4 @@
-# Create React Spring
+# Create React Springboot CLI
 
 <div align="center">
 
